@@ -1,4 +1,4 @@
-# Wine Quality Prediction using Fully Connected Neural Networks
+# Exploring the Learning of Fully-Connected Neural Networks
 
 This project explores the learning behavior of fully connected neural networks on the Wine Quality dataset from the UCI Machine Learning Repository.
 
